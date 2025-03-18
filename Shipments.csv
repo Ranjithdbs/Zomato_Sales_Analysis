@@ -1,0 +1,10 @@
+﻿Delivery Person,Number of Deliveries,Average Delivery Time,Distance Traveled km,Shift Duration hours,Tip Amount,Total Earnings,Day of Shift,Vehicle Used,Delivery Person Rating
+Kiran Desai,4,45.8719,5.2566,5.09803,0.61,84.26,Weekend,Bike,2
+Vikram Singh,9,25.2587,1.995,7.20674,52.436,"1,014.85",Weekday,Bike,1
+Neha Kapoor,7,26.4785,8.4985,4.63845,17.303,380.34,Weekday,Bike,4
+Rahul Jain,1,58.0957,4.6131,7.05364,169.582,251.3,Weekend,Scooty,2
+Vikram Singh,3,50.1728,17.6596,8.53681,32.088,225.68,Weekday,Scooty,3
+Sandeep Kumar,9,14.9755,16.212,5.73895,86.511,"1,531.05",Weekday,Scooter,3
+Rohit Sharma,5,18.2371,15.0151,11.56312,194.321,"1,147.74",Weekend,Scooter,5
+Sonal Gupta,2,15.8516,11.7215,11.06641,177.636,447.3,Weekday,Bike,4
+Sonal Gupta,4,48.0606,8.2819,10.65496,84.358,722.85,Weekend,Cycle,3
