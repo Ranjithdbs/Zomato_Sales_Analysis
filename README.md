@@ -20,6 +20,7 @@ To analyze Zomato's sales data to identify key revenue drivers, customer purchas
 7).The pattern of bookings over time, identifying seasonality or specific booking trends.
 8).Performance metrics for individual delivery partners.
 9).The reasons for order cancellations, categorized for analysis.
+
 Dashboard Interaction <a href="https://github.com/Ranjithdbs/Zomato_Sales_Analysis/blob/main/Zomato%20data%20analysis.png">View Dashboard</a>
 ## Key Insights
 Reduce Cancellation and Failure Rates:
